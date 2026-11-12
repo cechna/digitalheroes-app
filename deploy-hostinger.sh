@@ -13,9 +13,9 @@ if [ -d ".git" ]; then
   git pull origin main
 fi
 
-# 2. Installazione dipendenze di produzione
+# 2. Installazione dipendenze
 echo "📦 Installazione dipendenze..."
-npm ci --omit=dev
+npm ci
 
 # 3. Compilazione Next.js
 echo "🏗️ Compilazione Next.js in produzione..."
