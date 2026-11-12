@@ -1,0 +1,16 @@
+{
+  "name": "Digital ⚡ Heroes Community",
+  "short_name": "Digital ⚡ Heroes",
+  "description": "La community per remote workers, corsi, meetup, materiali e networking di Digital Heroes Salerno e provincia.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060B23",
+  "theme_color": "#E40488",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

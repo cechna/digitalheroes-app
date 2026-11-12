@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /attivita
+Allow: /materiali
+Allow: /bacheca
+Allow: /privacy
+Allow: /termini
+Disallow: /gestione/
+Disallow: /api/
+Disallow: /messaggi
+Disallow: /profilo
+
+Sitemap: https://digital-heroes.net/sitemap.xml
